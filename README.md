@@ -8,11 +8,11 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/Akhil-00001">
+  <img src="https://komarev.com/ghpvc/?username=Akhil-00001&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
+<a href="https://github.com/Akhil-00001?tab=followers">
+  <img src="https://img.shields.io/github/followers/Akhil-00001?style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
 
 </div>
@@ -119,10 +119,10 @@ Hands-on work with REST APIs, authentication, CRUD operations, database integrat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akhil-00001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-00001&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=C9D1D9" />
 
-<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=00D1FF&fire=7C3AED&currStreakLabel=00D1FF&sideLabels=C9D1D9&dates=8B949E" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Akhil-00001&hide_border=true&background=0D1117&ring=00D1FF&fire=7C3AED&currStreakLabel=00D1FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
