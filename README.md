@@ -130,13 +130,13 @@ Hands-on work with REST APIs, authentication, CRUD operations, database integrat
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/akhil-kotnala-a92088370">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D1FF" />
 </a>
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:akhil.kt28@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
